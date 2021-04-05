@@ -1,4 +1,4 @@
-package com.xyh;
+package com.xyh.test;
 
 import com.xyh.api.HelloService;
 import com.xyh.dto.UserDetail;

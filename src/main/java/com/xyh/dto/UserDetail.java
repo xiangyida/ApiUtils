@@ -1,7 +1,7 @@
 package com.xyh.dto;
 
-import com.xyh.common.NotEmpty;
 import com.xyh.common.NotNull;
+import com.xyh.common.NotEmpty;
 import lombok.Data;
 
 /**
